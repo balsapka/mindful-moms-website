@@ -443,11 +443,6 @@ section h2 {
     box-shadow: var(--shadow);
 }
 
-.testimonial-card.placeholder {
-    border: 2px dashed var(--secondary-color);
-    background-color: var(--bg-light);
-}
-
 .testimonial-text {
     font-style: italic;
     margin-bottom: 1.5rem;
