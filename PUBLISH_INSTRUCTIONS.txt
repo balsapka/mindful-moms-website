@@ -1,0 +1,29 @@
+STEP-BY-STEP PUBLISHING GUIDE
+==============================
+
+STEP 1: Create GitHub Repository
+---------------------------------
+1. Go to: https://github.com/new
+2. Repository name: mindful-moms-website
+3. Description: Mindful Moms - Holistic Wellness Coaching in Dubai
+4. Keep it PUBLIC (required for free GitHub Pages)
+5. DON'T check any boxes
+6. Click "Create repository"
+
+STEP 2: Push Your Code (run these commands in Terminal)
+--------------------------------------------------------
+cd ~/Python/mindful-moms-website
+git remote add origin https://github.com/vajdbal/mindful-moms-website.git
+git push -u origin main
+
+STEP 3: Enable GitHub Pages
+----------------------------
+1. Go to: https://github.com/vajdbal/mindful-moms-website/settings/pages
+2. Under "Source", select "main" branch
+3. Click "Save"
+4. Wait 1-2 minutes
+
+YOUR WEBSITE WILL BE LIVE AT:
+https://vajdbal.github.io/mindful-moms-website/
+
+That's it! 🎉
